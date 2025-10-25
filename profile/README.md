@@ -10,14 +10,10 @@ Currently has `cpp` `dot-net` implementation
 
 <a href="https://github.com/dmusicpak/DMusicPakCPP"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpak/DMusicPakCPP.png" width="460px"></a>
 
-> .NET
+# Editor
 
-<a href="https://github.com/dmusicpack/DMusicPackDotNET"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpack/DMusicPackDotNET.png" width="460px"></a>
+> Cross Platfrom
 
-# Creator
-
-> Windows
-
-<a href="https://github.com/dmusicpack/DreamMusicPacker"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpack/DreamMusicPacker.png" width="460px"></a>
+<a href="https://github.com/dmusicpak/DMusicPakCLI"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpak/DMusicPakCLI.png" width="460px"></a>
 
 Maintenance/Developer : [TYPE DREAM MOON](https://github.com/TypeDreamMoon)
