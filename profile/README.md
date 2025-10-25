@@ -1,4 +1,4 @@
-# Dream Music Pack (.dmusicpack)
+# Dream Music Pack (.dmusicpak)
 
 This organization is used to store `.dmusicpack` files and related repositories
 
