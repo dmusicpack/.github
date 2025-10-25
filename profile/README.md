@@ -8,7 +8,7 @@ Currently has `cpp` `dot-net` implementation
 
 > CPP / C
 
-<a href="https://github.com/dmusicpack/DMusicPackCPP"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpack/DMusicPackCPP.png" width="460px"></a>
+<a href="https://github.com/dmusicpak/DMusicPakCPP"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpak/DMusicPakCPP.png" width="460px"></a>
 
 > .NET
 
