@@ -6,14 +6,14 @@ Currently has `cpp` `dot-net` implementation
 
 # Library
 
-> CPP / C
+[DMusicPak CPP](https://github.com/dmusicpak/DMusicPakCPP)
 
-<a href="https://github.com/dmusicpak/DMusicPakCPP"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpak/DMusicPakCPP.png" width="460px"></a>
+[DMusicPak Dot Net](https://github.com/dmusicpak/DMusicPakDotNet)
 
 # Editor
 
-> Cross Platfrom
+[DMusicPak CLI](https://github.com/dmusicpak/DMusicPakCLI)
 
-<a href="https://github.com/dmusicpak/DMusicPakCLI"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/dmusicpak/DMusicPakCLI.png" width="460px"></a>
+[DMusicPak Creator](https://github.com/dmusicpak/DMusicPakCreator)
 
 Maintenance/Developer : [TYPE DREAM MOON](https://github.com/TypeDreamMoon)
