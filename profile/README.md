@@ -4,6 +4,8 @@ This organization is used to store `.dmusicpack` files and related repositories
 
 Currently has `cpp` `dot-net` implementation
 
+This file format provides the storage of songs, lyrics, song information. Supports streaming media transmission.
+
 # Library
 
 [DMusicPak CPP](https://github.com/dmusicpak/DMusicPakCPP)
